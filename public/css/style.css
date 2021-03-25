@@ -1,0 +1,46 @@
+.blog-title:hover{
+    text-decoration: underline;
+    color:blue;
+    cursor:pointer;
+}
+.navbar{
+    background-color:cornsilk !important;
+}
+.navbar-nav a{
+    margin-right: 40px;
+    color: black !important;
+}
+footer{
+    background-color:#75328a;
+    min-height: 400px;
+}
+#postTable{
+    margin-left: 200px !important;
+}
+.blog img{
+    padding: 30px 30px 30px 30px;
+    height: 350px;
+    width: 450px;
+}
+.blog-title a{
+    color:red;
+}
+.blog-title a h4:hover{
+    text-decoration: none;
+}
+.table .author-blog-image img{
+    padding: 10px 10px 10px 0;
+}
+.logout{
+    color: black;
+    margin-top: 5px;
+}
+.disabled{
+    cursor: not-allowed !important;
+}
+hr{
+    border: 5px !important;
+}
+.comments strong{
+    font-size:20px;
+}
